@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mahyar-sh/simple/issues"
   },
-  "homepage": "https://github.com/Mahyar-sh/simple#readme"
+  "homepage": "https://github.com/Mahyar-sh/simple#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
